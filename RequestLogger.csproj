@@ -4,6 +4,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>RequestLogger</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -15,9 +16,6 @@
       <Content Include="obj\project.assets.json" />
       <Content Include="obj\project.nuget.cache" />
       <Content Include="obj\rider.project.model.nuget.info" />
-      <Content Include="obj\TefApiLogger.csproj.nuget.dgspec.json" />
-      <Content Include="obj\TefApiLogger.csproj.nuget.g.props" />
-      <Content Include="obj\TefApiLogger.csproj.nuget.g.targets" />
     </ItemGroup>
 
 </Project>

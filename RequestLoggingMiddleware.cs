@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace TefApiLogger;
+namespace RequestLogger;
 
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
