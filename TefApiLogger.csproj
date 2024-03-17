@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="obj\project.assets.json" />
+      <Content Include="obj\project.nuget.cache" />
+      <Content Include="obj\rider.project.model.nuget.info" />
+      <Content Include="obj\TefApiLogger.csproj.nuget.dgspec.json" />
+      <Content Include="obj\TefApiLogger.csproj.nuget.g.props" />
+      <Content Include="obj\TefApiLogger.csproj.nuget.g.targets" />
+    </ItemGroup>
+
+</Project>
